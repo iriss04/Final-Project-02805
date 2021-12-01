@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://Greek.github.io/project_website_demo"
 languageCode = 'en-us'
 title = 'Greek Mythology'
 theme = 'ananke'
