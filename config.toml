@@ -2,6 +2,7 @@ baseURL = "https://github.com/RUTHOLE/Final-Project-02805.git"
 languageCode = 'en-us'
 title = 'Greek Mythology'
 theme = 'ananke'
+publishDir: "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
