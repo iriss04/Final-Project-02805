@@ -1,8 +1,8 @@
-baseURL = "https://iriss04.github.io/02805_finalproject/"
+publishDir = "public"
+baseURL = "https://iriss04.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Greek Mythology'
 theme = "ananke"
-publishDir = "docs"
 
 
 DefaultContentLanguage = "en"
