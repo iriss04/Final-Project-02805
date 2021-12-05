@@ -10,4 +10,4 @@ The dataset we extracted includes information about many categories of greek myt
 
 After looking into greek mythology we learned that there is more to the greek gods and goddesses than we first thought. With this website we want to show you the world of greek mythology.  
 
-You can access the data set [here](url).
+You can access the data set [here](https://github.com/iriss04/Final-Project-02805/blob/main/characters.zip).
