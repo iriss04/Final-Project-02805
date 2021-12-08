@@ -39,7 +39,7 @@ Here's an overview of what can be learned about the categories from the word clo
 
 
 ## Communities
-For our network we identified communities with the Louvain algorithm. With this algorithm we detected 12 communities in our network, ranging from 0 to 11. The smallest community has 2 characters and the largest has 79 characters. 
+For our network we identified communities with the Louvain algorithm. With this algorithm we detected 12 communities in our network, ranging from 0 to 11. The smallest community has 2 characters and the largest has 87 characters. 
 
 Here you can see a histogram of the community size distribution. 
 
