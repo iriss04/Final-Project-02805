@@ -45,7 +45,7 @@ Here you can see a histogram of the community size distribution.
 
 ![alt text for screen readers](/images/community_dist.png "Distribution of communities")
 
-From the distribution we can see how most of the communities have a distinct number of characters. The most frequent size of a community has 60 characters. The largest community has 79 characters and the second largest has 70 characters. It's interesting to see how different categories distribute down to the largest communities. Here below is a list of the number of different characters in the five largest communities.
+From the distribution we can see how all of the communities have a distinct number of characters. The largest community has 87 characters and the second largest has 70 characters. It's interesting to see how different categories distribute down to the largest communities. Here below is a list of the number of different characters in the five largest communities.
 
 Largest community: 
 - Creature    35

@@ -9,3 +9,7 @@ We will with this website tell the story about our dataset and what we've learne
 Here is our video submission for part A of this assignment. 
 
 [![Project Assignment A](https://img.youtube.com/vi/7TwIk3wOlrA/0.jpg)](https://www.youtube.com/watch?v=7TwIk3wOlrA "Project Assignment A")
+
+To download our dataset press [here](https://github.com/iriss04/Final-Project-02805/blob/main/characters.zip).
+
+To download our explainer notebook press [here](https://github.com/iriss04/Final-Project-02805/blob/main/Explainer%20Notebook%20-%20Greek%20Mythology.ipynb).
