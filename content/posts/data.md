@@ -44,6 +44,6 @@ Here are the initial steps we took to extract the data.
 5) Further processing retrieves the connections between characters that allows us to generate a network. You can see the network and find more information on it on [the network](https://iriss04.github.io/posts/network/) post.
 
 ## Size of the dataset
-- Get the size of the zip file that can be downloaded.
-- Number of pages
+- Size of dataset: 4 MB
+- Number of pages: 547
 
